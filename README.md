@@ -1,6 +1,6 @@
 # JaeHun Gou AI Learning Repository
 
-Welcome to the JaeHun GOu AI Learning repository! 🚀
+Welcome to the JaeHun Gou AI Learning repository! 🚀
 
 ## About this Repository
 
