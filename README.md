@@ -14,3 +14,7 @@ Here, we emphasize learning through various datasets in the domains of Machine L
 - **Diverse Topics Covered**: Immerse yourself in the world of Machine Learning and Deep Learning, including exploration of datasets from sources like UC Irvine Machine Learning Repository and Kaggle. Topics span computer vision, natural language processing, and reinforcement learning.
 - **Hands-On Projects**: Apply your knowledge by working on hands-on projects provided within the repository, featuring datasets from UC Irvine Machine Learning Repository, Kaggle, and more.
 - **Community-driven Content**: Benefit from the collective knowledge and insights of our vibrant AI community, which actively contributes to the exploration and understanding of diverse datasets.
+
+## Powerful EDA codes
+- **sweetviz**: new open-source Python library called Sweetviz takes pandas dataframes and creates a self-contained HTML report.
+https://towardsdatascience.com/powerful-eda-exploratory-data-analysis-in-just-two-lines-of-code-using-sweetviz-6c943d32f34
